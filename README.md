@@ -1,2 +1,5 @@
-# C-programming-Basics
-My first repository for learning C programming 
+#include<stdio.h>
+int main()
+ {printf("Hello world");
+return 0
+}
